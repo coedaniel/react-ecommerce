@@ -7,7 +7,7 @@ const productos = [
     },
     {
       id: 2,
-      nombre: 'Mouse Logitech  G305',
+      nombre: 'Mouse LogitechG305',
       precio: 499,
       imagen: 'https://picsum.photos/id/21/300/200'
     },
