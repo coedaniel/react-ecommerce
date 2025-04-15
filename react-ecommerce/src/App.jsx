@@ -7,7 +7,7 @@ export default function App() {
   return (
     <div>
       <nav>
-        <Link to="/">Productos</Link> |{' '}
+        <Link to="/">Productos </Link> |{' '}
         <Link to="/carrito">Carrito</Link> |{' '}
         <Link to="/orden">Orden</Link>
       </nav>
