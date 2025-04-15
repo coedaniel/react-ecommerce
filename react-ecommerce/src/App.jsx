@@ -16,7 +16,6 @@ export default function App() {
         <Route path="/" element={<Productos />} />
         <Route path="/carrito" element={<Carrito />} />
         <Route path="/orden" element={<Orden />} />
-        
       </Routes>
     </div>
   )
