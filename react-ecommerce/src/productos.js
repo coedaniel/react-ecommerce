@@ -2,7 +2,7 @@ const productos = [
     {
       id: 1,
       nombre: 'Laptop Gamer ASUS TUF',
-      precio: 189999,
+      precio: 18999,
       imagen: 'https://picsum.photos/id/180/300/200'
     },
     {
